@@ -12,6 +12,12 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+
+      fontFamily: {
+        heading: ["Bungee", "serif"],
+        body: ["Nunito", "sans-serif"],
+        accent: ["Lobster", "serif"],
+      },
     },
   },
   plugins: [],
